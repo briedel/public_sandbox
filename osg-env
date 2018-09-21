@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 function advertise {
     key=$1
     value=$2
