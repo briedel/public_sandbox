@@ -178,3 +178,5 @@ if [ "x$OSG_SINGULARITY_REEXEC" = "x1" ]; then
     advertise OpSysMajorVer "$OS_VERSION"
     advertise OpSysVer "${OS_VERSION}00"
 fi
+
+advertise RCC_Factory "ciconnect"
